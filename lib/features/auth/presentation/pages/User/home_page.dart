@@ -144,7 +144,6 @@ class _HomePageState extends State<HomePage> {
         onTap: (i) => setState(() => index = i),
         type: BottomNavigationBarType.fixed,
         items: [
-          BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
           BottomNavigationBarItem(icon: Icon(Icons.search), label: 'Search'),
           BottomNavigationBarItem(
             icon: Icon(Icons.shopping_cart),
