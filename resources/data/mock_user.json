@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "avatar_url": "https://example.com/avatar1.jpg",
+    "username": "johndoe123",
+    "password": "password123",
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "avatar_url": "https://example.com/avatar2.jpg",
+    "username": "janesmith456",
+    "password": "password456",
+    "email": "janesmith@example.com",
+    "phone": "987-654-3210"
+  },
+  {
+    "id": 3,
+    "name": "Michael Johnson",
+    "avatar_url": "https://example.com/avatar3.jpg",
+    "username": "michaelj789",
+    "password": "password789",
+    "email": "michaelj@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "avatar_url": "https://example.com/avatar4.jpg",
+    "username": "emilydavis101",
+    "password": "password101",
+    "email": "emilydavis@example.com",
+    "phone": "444-555-6789"
+  },
+  {
+    "id": 5,
+    "name": "Chris Lee",
+    "avatar_url": "https://example.com/avatar5.jpg",
+    "username": "chrislee202",
+    "password": "password202",
+    "email": "chrislee@example.com",
+    "phone": "333-222-4444"
+  }
+]
